@@ -1,4 +1,4 @@
-# GenAI-Query-API
+
 # Gen AI Query API 🚀
 
 A lightweight backend service that simulates an AI-powered data query system. Built using **Node.js, Express, and SQLite**.
